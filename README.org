@@ -1,10 +1,10 @@
 * Spring 2022 - Lab 03
 
-* Last name:
+* Last name: Cheema
 
-* First name:
+* First name: Muhammed
 
-* GitHub username:
+* GitHub username: MuhammedACheema
 
 * Notes:
 
